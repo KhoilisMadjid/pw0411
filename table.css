@@ -1,0 +1,51 @@
+table, th, td {
+   border: 1px solid #ffff00;
+}
+
+table {
+   border-collapse: collapse;
+}
+
+table {
+   width: 500px;
+}
+
+table {
+   width: 100%;
+}
+
+th,td {
+   width: 100px;
+}
+
+table {
+   height: 500px;
+}
+
+tr {
+   height: 25px;
+}
+
+th {
+   text-align: center ;
+}
+
+td {
+   vertical-align: bottom ;
+}
+
+table {
+   margin : 10px 2px 5px 3px;
+}
+
+td {
+   padding : 10px 2px 5px 3px;
+}
+
+table {
+   color : #228B22;
+}
+
+table {
+   background-color : #23df94;
+}
